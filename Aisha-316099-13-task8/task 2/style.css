@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Gochi+Hand&family=Merienda:wght@300..900&family=Rowdies:wght@300;400;700&display=swap');
+
+* {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+}
+
+#intro {
+    background-color: #B9E5E8;
+    text-align: center;
+}
+.about {
+    background-color: #B9E5E8;
+    text-align: justify;
+}
+
+p {
+    font-size: 14px;
+}
+.projects {
+    padding: 30px 50px 50px 30px;
+    display: flex;
+    gap: 10px;
+    
+}
+.project  {
+    width: 300px;
+    height: 300px;
+    background-color: #DFF2EB;
+}
+
+
+#footer {
+    background-color: #B9E5E8;
+    text-align: center;
+    font-size: 14px;
+}
